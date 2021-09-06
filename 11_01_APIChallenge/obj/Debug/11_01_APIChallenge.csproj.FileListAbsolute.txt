@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\11_01_APIChallenge.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\11_01_APIChallenge.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\11_01_APIChallenge.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\obj\Debug\11_01_APIChallenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\obj\Debug\11_01_APIChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\obj\Debug\11_01_APIChallenge.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\obj\Debug\11_01_APIChallenge.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_01_APIChallenge\obj\Debug\11_01_APIChallenge.pdb

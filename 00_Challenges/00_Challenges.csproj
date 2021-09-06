@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="W1D3_ConditionsAndLoops\W1D3Tests.cs" />
     <Compile Include="W1D4_ClassesAndProperties\W1D4Tests.cs" />
     <Compile Include="W1D4_ClassesAndProperties\User.cs" />
     <Compile Include="W1D5_StudentInstructorClasses\Instructor.cs" />
@@ -58,11 +57,16 @@
     <Compile Include="W1D5_StudentInstructorClasses\StudentInstructorClassesTests.cs" />
     <Compile Include="W2D2_Calculator\Calculator.cs" />
     <Compile Include="W2D2_Calculator\CalculatorTests.cs" />
+    <Compile Include="W3D2_DrofsnarTheBirdMan\Drofsnar.cs" />
+    <Compile Include="W3D2_DrofsnarTheBirdMan\IBird.cs" />
+    <Compile Include="W3D2_DrofsnarTheBirdMan\Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="W3D2_DrofsnarTheBirdMan\Drofsnar.txt" />
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
